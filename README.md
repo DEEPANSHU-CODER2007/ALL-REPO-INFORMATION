@@ -1,6 +1,5 @@
 # ALL-REPO-INFORMATION
-
-
+<br>
 <hr>
 
 # Snake Game
@@ -15,9 +14,7 @@ Deploy using github pages.
 
 # NeuroAI
 
-
 this is Smart AI Chatbot 
-
 
 comming soon
 
