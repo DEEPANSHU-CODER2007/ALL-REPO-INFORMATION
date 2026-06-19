@@ -1,5 +1,5 @@
 # ALL-REPO-INFORMATION
-<br>
+
 <hr>
 
 # Snake Game
