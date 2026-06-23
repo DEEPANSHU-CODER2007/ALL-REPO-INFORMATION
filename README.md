@@ -22,6 +22,8 @@ comming soon
 
 # Numora
 
-wait...
+
+
+
 
 
