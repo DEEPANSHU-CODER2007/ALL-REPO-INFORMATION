@@ -18,11 +18,6 @@ this is Smart AI Chatbot
 
 comming soon
 
-<hr>
-
-# Numora
-
-wait...
 
 
 
